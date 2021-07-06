@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "![alt text](https://github.com/glaucia86/curso-typescript-zero-to-hero/raw/main/media/tscurso.gif)",
+  "main": "app.ts",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julioamoreno/Typescript-Zero-To-Hero.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julioamoreno/Typescript-Zero-To-Hero/issues"
+  },
+  "homepage": "https://github.com/Julioamoreno/Typescript-Zero-To-Hero#readme"
+}
